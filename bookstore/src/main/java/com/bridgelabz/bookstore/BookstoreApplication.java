@@ -1,4 +1,4 @@
-package com.bridgelabz.bookstore.bookstore;
+package com.bridgelabz.bookstore;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
